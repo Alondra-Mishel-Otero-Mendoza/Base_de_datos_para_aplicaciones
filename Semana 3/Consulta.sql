@@ -1,0 +1,1 @@
+SELECT*FROM cliente,direccion WHERE cliente.id_direccion = direccion.id_direccion;s
